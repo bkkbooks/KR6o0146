@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0146/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 迦葉仙人說醫女人經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1691.xml
+    old_id: T32n1691
+hash: sha256:274fffc9d876ea82161f378bba124f149775c7052ef9a0deed79a73719198568
