@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0146_000.yaml, hash: 'sha256:274fffc9d876ea82161f378bba124f149775c7052ef9a0deed79a73719198568'}
-  - {seq: 1, filename: KR6o0146_001.yaml, hash: 'sha256:caaf73e1a331fa19567bab28fbe5f42a35022933fb84c3b657fbda6e1fcf716c'}
+  - {seq: 1, filename: KR6o0146_001.yaml, hash: 'sha256:d27ec0f6ea11641fc72b368af63939f4008d05adb7ba3a92a822dc89dcee6504'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0146_001.markers.yaml, hash: 'sha256:273dccc6aa5270c918ca39608e514e1cf957dd60245fc3a6177b78387937ae6b'}
+  - {seq: 0, role: markers, filename: assets/KR6o0146_000.markers.yaml, hash: 'sha256:32d063d1b232213f1e4e38d57983c863ea92824ed697c97c2687d0c2442db3fe'}
+  - {seq: 1, role: markers, filename: assets/KR6o0146_001.markers.yaml, hash: 'sha256:83a085bea83bc6e82dccf6cd1936e71853bb67d856b4fec2d31c9409f0ea65f8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 迦葉仙人說醫女人經
   type: juan
   level: 1
-hash: sha256:a0906c0de9cc71127011d1511d95c3f040de7eebb0db790689870bb9e8806c41
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c2af4361fc98d21c344e7bf1318c05178693ea4d5387341850325eba92b088b0
