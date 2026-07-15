@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0146/v1
 canonical_location: https://kanripo.org/bkk/KR6o0146/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 迦葉仙人說醫女人經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0146_000.yaml, hash: 'sha256:274fffc9d876ea82161f378bba124f149775c7052ef9a0deed79a73719198568'}
-  - {seq: 1, filename: KR6o0146_001.yaml, hash: 'sha256:d27ec0f6ea11641fc72b368af63939f4008d05adb7ba3a92a822dc89dcee6504'}
+  - {seq: 1, filename: KR6o0146_001.yaml, hash: 'sha256:930ab34cdda5a16875802e4a12a82bf26de7d6ec7c6c84a2d35ea446a27ab333'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0146_000.markers.yaml, hash: 'sha256:32d063d1b232213f1e4e38d57983c863ea92824ed697c97c2687d0c2442db3fe'}
-  - {seq: 1, role: markers, filename: assets/KR6o0146_001.markers.yaml, hash: 'sha256:83a085bea83bc6e82dccf6cd1936e71853bb67d856b4fec2d31c9409f0ea65f8'}
+  - {seq: 1, role: markers, filename: assets/KR6o0146_001.markers.yaml, hash: 'sha256:09f6251b52e27471ee0424351035a88471debf1f38288aaeaa902662b829a97d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 迦葉仙人說醫女人經
   type: juan
   level: 1
-hash: sha256:c2af4361fc98d21c344e7bf1318c05178693ea4d5387341850325eba92b088b0
+hash: sha256:42b0d9708d5e2cc3819c5a674d4501290e70140d58a4d56458b30ec379bc5f81
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
